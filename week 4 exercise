@@ -1,0 +1,17 @@
+<?php
+$a = 30;
+$b = 31;
+function months()
+{
+global $a, $b;
+$a = $a + $b + $b + $b;
+}
+months();
+function days($a)
+{
+global $b;
+$b = $a - $b;
+}
+days ($a = 123);
+echo $b;
+?>
