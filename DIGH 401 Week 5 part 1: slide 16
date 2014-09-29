@@ -1,4 +1,4 @@
-XML encoding examples
+XML encoding examples that address slide 16
 
 Example 1 (expanded to include type of vehicle): A car
 <?xml version="1.0" encoding="ISO-8859-1"?>
