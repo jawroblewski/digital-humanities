@@ -15,3 +15,8 @@ $b = $a - $b;
 days ($a = 123);
 echo $b;
 ?>
+
+My rationale - I went with two variables because I got caught up in thinking about how 3 of the 4 months had the same number of days. 
+If this were a different example, I would most likely have gone with separate variables for each of the months.
+For whatever reason, I just could not think of how to pass through the result. Seeing it in the solution example was definitely a "duh! of course!"
+moment for me. 
