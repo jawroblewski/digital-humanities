@@ -1,0 +1,55 @@
+Object oriented design for Kindle E-reader
+
+Start Up Sequence - first time
+  Link Amazon account
+  Link Good reads account
+
+Start Up Sequence - subsequent times
+  Power button pressed
+  Light screen
+  Is account available? if Yes, then check last actions and sync reading data. If no, take through other branch of start up sequence to link accounts
+  Was book left open? 
+    If yes, open book at most recent reading point
+    Are there conflicting reading points from other devices? 
+      If yes, ask user to choose.
+      If no, load list of books
+
+Power Off Sequence
+  Turn off light
+  load screen saver (assuming this is not saved on device
+
+Open book
+  Is book selected?
+  Does book have last reading point?
+    If Yes, open book to last page read with current display preferences
+    If no, open book to beginning
+    
+Close book
+  Save last reading point
+  Display book list
+
+Navigation (for book and for list of books on main menu)
+  Page forward
+  Page back
+  Select text
+  add bookmark
+  Select bookmark
+
+Search (book, device, amazon store?)
+  Display search box and keyboard
+  Enter string (author, title etc.)
+  Match against book contents, book, or store
+  display resulting text/book/purchasing option
+  
+Sharing (Goodread, notetaking)
+Is account linked?
+Add notes
+Display notes
+
+
+User/display preferences Preferences 
+  set font size
+  set type style
+  set screen brightness
+  set screen orientation
+  save preferences
