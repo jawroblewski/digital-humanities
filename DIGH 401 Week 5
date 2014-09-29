@@ -1,90 +1,111 @@
 XML encoding examples
 
-Example 1: A car
+Example 1 (expanded to include type of vehicle): A car
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<car>
-<manufacturer type = "Volkswagon">
+<vehicles>
+<vehicle type="car" <!-- extended to included other vehicles like truck, van, motorcycle, and so on -->
+<manufacturer> Volkswagon </manufacturer>
 <model> CC </model>
 <color> Blue </color>
 <year> 2012 </year> 
 <condition> good </condition>
 <fuel> standard </fuel>
-<transmission> automatic</transmission>
-</manufacturer>
-</car>
+<transmission> automatic </transmission>
+</vehicles>
 
-Example 1: Sports team
+Example 3 - original exercise 2 CDs with 5 songs each, expanded to allow for entire song library including albums & individual tracks (e.g., on an MP3 player)
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<sport = ice hockey </sport>
+<music>
+<song id="1"> <!-- making an attribute for data about the data, in this case, a song id -->
+<Track number>1</Track number>
+<Artist name>David Bowie</Artist name>
+<Album>Hunky Dory<Album>
+<Genre>Rock</Genre>
+<Year>1971</Year>
+<Song title>Changes</Song title>
+<Song length>3:30</song length>
+</song>
+
+<Song id="2">
+<Track number>2</Track number>
+<Artist name>David Bowie</Artist name>
+<Album>Hunky Dory<Album>
+<Genre>Rock</Genre>
+<Year>1971</Year>
+<Song title>Oh! You Pretty Things</Song title>
+<Song length>3:14</song length>
+</song>
+
+<song id="3">
+<Track number>3</Track number> 
+<Artist name>David Bowie</Artist name>
+<Album>Hunky Dory<Album>
+<Genre>Rock</Genre>
+<Year>1971</Year>
+<song title>8 Line Poem</song title>
+<song length>3:30</song length>
+</song>
+
+<song id="4">
+<Track number>4</track number>
+<Artist name>David Bowie</Artist name>
+<Album>Hunky Dory<Album>
+<Genre>Rock</Genre>
+<Year>1971</Year> 
+<Song title>Life on Mars</Song title>
+<Song length>3:50</song length>
+</song>
+
+<song id="5">
+<Track number>5</Track number>
+<Artist name>David Bowie</Artist name>
+<Album>Hunky Dory<Album>
+<Genre>Rock</Genre>
+<Year>1971</Year>
+<song title>Kooks</song title>
+<song length>3:30</song length>
+
+<song id="6">
+<Track number>2</track number>
+<Artist name>Radiohead</Artist name>
+<album>Ok Computer</album>
+<Genre>rock</genre>
+<year>1997</year>
+<Song title>Paranoid Android</Song title>
+<Song length>6:23</song length>
+</song>
+
+<song id="7">
+<Track number>5</track number>
+<Artist name>LCD Soundsystem</Artist name>
+<album>This Is Happening</album>
+<Genre>rock</genre>
+<year>2010</year>
+<Song title>I Can Change</Song title>
+<Song length>5:56</song length>
+</song>
+</music>
+******************************************************
+Example 2: Sports team (not expanded - just including what i did in class
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<sport> ice hockey </sport>
 <team name> Blackhawks </team name>
 <city> Chicago </city>
 <state> Illinois </state>
-<player> "Marian Hossa" 
-<player number> 81 </player number>
-<position> Right wing </position>
-<player height inches> 73 </player height inches>
-<player weight lbs> 107 </player weight lbs>
-<player nationality> Slovakia </player nationality>
-<player age> 35 </player age>
+<player type>"Forward"
+<player name>Marian Hossa</player>
+<player number>81</player number>
+<position>Right wing</position>
+<player height inches>73</player height inches>
+<player weight lbs>107</player weight lbs>
+<player nationality>Slovakia</player nationality>
+<player age>35</player age>
 </player>
 </sport>
 
-Example 3: 2 CDs with 5 songs each
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<cd library>
-<Artist name = "David Bowie">
-<Album> Hunky Dory <Album>
-<Genre> Rock </Genre>
-<Year> 1971 </Year>
-<Track number> "1" 
-<Song title> Changes </Song title>
-<Song length> 3:30 </song length>
-</Track>
-<Track number> "2" 
-<Song title> Oh! You Pretty Things </Song title>
-<Song length> 3:14 </song length>
-</Track>
-<Track number> "3" 
-<song title> 8 Line Poem </song title>
-<song length> 3:30 </song length>
-<Track number> "4" 
-<Song title> Life on Mars </Song title>
-<Song length> 3:50 </song length>
-</Track>
-<Track number> "5" 
-<song title> Kooks </song title>
-<song length> 3:30 </song length>
-<Track number> "4" 
-<Song title> Kooks </Song title>
-<Song length> 2:50 </song length>
-</Track>
-</artist>
-<artist name "Radiohead">
-<album> Ok Computer </album>
-<Genre> rock </genre>
-<year> 1997 </year>
-<Track number> "1" 
-<Song title> Airbag </Song title>
-<Song length> 4:44 </song length>
-</Track>
-<Track number> "2" 
-<Song title> Paranoid Android </Song title>
-<Song length> 6:23 </song length>
-</Track>
-<Track number> "3" 
-<Song title> Subterranean Homesick Alien </Song title>
-<Song length> 4:28 </song length>
-</Track>
-<Track number> "4" 
-<Song title> Exit Music (for a film) </Song title>
-<Song length> 4:59</song length>
-</Track>
-<Track number> "5" 
-<Song title> Let Down </Song title>
-<Song length> 4:59 </song length>
-</Track>
-</artist>
-</cd library>
+
+
 
 
 
