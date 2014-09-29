@@ -1,0 +1,90 @@
+XML encoding examples
+
+Example 1: A car
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<car>
+<manufacturer type = "Volkswagon">
+<model> CC </model>
+<color> Blue </color>
+<year> 2012 </year> 
+<condition> good </condition>
+<fuel> standard </fuel>
+<transmission> automatic</transmission>
+</manufacturer>
+</car>
+
+Example 1: Sports team
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<sport = ice hockey </sport>
+<team name> Blackhawks </team name>
+<city> Chicago </city>
+<state> Illinois </state>
+<player> "Marian Hossa" 
+<player number> 81 </player number>
+<position> Right wing </position>
+<player height inches> 73 </player height inches>
+<player weight lbs> 107 </player weight lbs>
+<player nationality> Slovakia </player nationality>
+<player age> 35 </player age>
+</player>
+</sport>
+
+Example 3: 2 CDs with 5 songs each
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<cd library>
+<Artist name = "David Bowie">
+<Album> Hunky Dory <Album>
+<Genre> Rock </Genre>
+<Year> 1971 </Year>
+<Track number> "1" 
+<Song title> Changes </Song title>
+<Song length> 3:30 </song length>
+</Track>
+<Track number> "2" 
+<Song title> Oh! You Pretty Things </Song title>
+<Song length> 3:14 </song length>
+</Track>
+<Track number> "3" 
+<song title> 8 Line Poem </song title>
+<song length> 3:30 </song length>
+<Track number> "4" 
+<Song title> Life on Mars </Song title>
+<Song length> 3:50 </song length>
+</Track>
+<Track number> "5" 
+<song title> Kooks </song title>
+<song length> 3:30 </song length>
+<Track number> "4" 
+<Song title> Kooks </Song title>
+<Song length> 2:50 </song length>
+</Track>
+</artist>
+<artist name "Radiohead">
+<album> Ok Computer </album>
+<Genre> rock </genre>
+<year> 1997 </year>
+<Track number> "1" 
+<Song title> Airbag </Song title>
+<Song length> 4:44 </song length>
+</Track>
+<Track number> "2" 
+<Song title> Paranoid Android </Song title>
+<Song length> 6:23 </song length>
+</Track>
+<Track number> "3" 
+<Song title> Subterranean Homesick Alien </Song title>
+<Song length> 4:28 </song length>
+</Track>
+<Track number> "4" 
+<Song title> Exit Music (for a film) </Song title>
+<Song length> 4:59</song length>
+</Track>
+<Track number> "5" 
+<Song title> Let Down </Song title>
+<Song length> 4:59 </song length>
+</Track>
+</artist>
+</cd library>
+
+
+
