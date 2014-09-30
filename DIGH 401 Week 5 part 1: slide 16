@@ -2,16 +2,17 @@ XML encoding examples that address slide 16
 
 Example 1 (expanded to include type of vehicle): A car
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<vehicles>
-<vehicle type="car" <!-- extended to included other vehicles like truck, van, motorcycle, and so on -->
-<manufacturer> Volkswagon </manufacturer>
-<model> CC </model>
-<color> Blue </color>
-<year> 2012 </year> 
-<condition> good </condition>
-<fuel> standard </fuel>
-<transmission> automatic </transmission>
-</vehicles>
+<transport>
+<vehicle type="car"> <!-- extended to included other vehicles like truck, van, motorcycle, and so on -->
+<manufacturer>Volkswagon</manufacturer>
+<model>CC</model>
+<color>blue</color>
+<year>2012</year> 
+<condition>good</condition>
+<fuel>standard</fuel>
+<transmission>automatic</transmission>
+</vehicle>
+</transport>
 
 Example 3 - original exercise 2 CDs with 5 songs each, expanded to allow for entire song library including albums & individual tracks (e.g., on an MP3 player)
 <?xml version="1.0" encoding="ISO-8859-1"?>
