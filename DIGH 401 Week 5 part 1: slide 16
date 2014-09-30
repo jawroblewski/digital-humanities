@@ -18,90 +18,90 @@ Example 3 - original exercise 2 CDs with 5 songs each, expanded to allow for ent
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <music>
 <song id="1"> <!-- making an attribute for data about the data, in this case, a song id -->
-<Track number>1</Track number>
-<Artist name>David Bowie</Artist name>
+<Tracknumber>1</Tracknumber>
+<Artistname>David Bowie</Artistname>
 <Album>Hunky Dory<Album>
 <Genre>Rock</Genre>
 <Year>1971</Year>
-<Song title>Changes</Song title>
-<Song length>3:30</song length>
+<title>Changes</title>
+<length>3:30</length>
 </song>
 
 <Song id="2">
-<Track number>2</Track number>
-<Artist name>David Bowie</Artist name>
+<Tracknumber>2</Tracknumber>
+<Artistname>David Bowie</Artistname>
 <Album>Hunky Dory<Album>
 <Genre>Rock</Genre>
 <Year>1971</Year>
-<Song title>Oh! You Pretty Things</Song title>
-<Song length>3:14</song length>
+<title>Oh! You Pretty Things</title>
+<length>3:14</length>
 </song>
 
 <song id="3">
-<Track number>3</Track number> 
-<Artist name>David Bowie</Artist name>
+<Tracknumber>3</Tracknumber> 
+<Artistname>David Bowie</Artistname>
 <Album>Hunky Dory<Album>
 <Genre>Rock</Genre>
 <Year>1971</Year>
-<song title>8 Line Poem</song title>
-<song length>3:30</song length>
+<title>8 Line Poem</title>
+<length>3:30</length>
 </song>
 
 <song id="4">
-<Track number>4</track number>
-<Artist name>David Bowie</Artist name>
+<Tracknumber>4</tracknumber>
+<Artistname>David Bowie</Artistname>
 <Album>Hunky Dory<Album>
 <Genre>Rock</Genre>
 <Year>1971</Year> 
-<Song title>Life on Mars</Song title>
-<Song length>3:50</song length>
+<title>Life on Mars</title>
+<length>3:50</length>
 </song>
 
 <song id="5">
-<Track number>5</Track number>
-<Artist name>David Bowie</Artist name>
+<Tracknumber>5</Tracknumber>
+<Artistname>David Bowie</Artistname>
 <Album>Hunky Dory<Album>
 <Genre>Rock</Genre>
 <Year>1971</Year>
-<song title>Kooks</song title>
-<song length>3:30</song length>
+<title>Kooks</title>
+<length>3:30</length>
+</song>
 
 <song id="6">
-<Track number>2</track number>
-<Artist name>Radiohead</Artist name>
+<Tracknumber>2</track number>
+<Artistname>Radiohead</Artistname>
 <album>Ok Computer</album>
 <Genre>rock</genre>
 <year>1997</year>
-<Song title>Paranoid Android</Song title>
-<Song length>6:23</song length>
+<title>Paranoid Android</title>
+<length>6:23</length>
 </song>
 
 <song id="7">
-<Track number>5</track number>
-<Artist name>LCD Soundsystem</Artist name>
+<Tracknumber>5</tracknumber>
+<Artistname>LCD Soundsystem</Artistname>
 <album>This Is Happening</album>
 <Genre>rock</genre>
 <year>2010</year>
-<Song title>I Can Change</Song title>
-<Song length>5:56</song length>
+<title>I Can Change</title>
+<length>5:56</length>
 </song>
 </music>
 ******************************************************
 Example 2: Sports team (not expanded - just including what i did in class
 <?xml version="1.0" encoding="ISO-8859-1"?>
-
-<sport> ice hockey </sport>
-<team name> Blackhawks </team name>
-<city> Chicago </city>
-<state> Illinois </state>
-<player type>"Forward"
-<player name>Marian Hossa</player>
-<player number>81</player number>
+<sport>ice hockey</sport>
+<team>Blackhawks</team name>
+<city>Chicago</city>
+<state>Illinois</state>
+<player type="Forward">
+<name>Marian Hossa</player>
+<number>81</number>
 <position>Right wing</position>
-<player height inches>73</player height inches>
-<player weight lbs>107</player weight lbs>
-<player nationality>Slovakia</player nationality>
-<player age>35</player age>
+<heightinches>73</heightinches>
+<weightlbs>107</weightlbs>
+<nationality>Slovakia</nationality>
+<age>35</age>
 </player>
 </sport>
 
