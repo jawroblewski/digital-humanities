@@ -9,7 +9,7 @@ XML encoding for slide 17 (VWoolf text)
 <Title><font format="underline">To the Lighthouse</font></Title>
 <pgbreak number "198">
 <space></space>
-<body style="font-family:Arial;font-size:14;color:black">
+<body style="Arial" size="4" color="black">
 <p>(Here Mr. Carmichael, who was reading
 Virgil, blew out his candle.)</paragraph>
 <space></space>
