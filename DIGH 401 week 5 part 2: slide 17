@@ -1,0 +1,31 @@
+XML encoding for slide 17 (VWoolf text)
+
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+<author>Virginia Woolf</author>
+<copyright>public domain</copyright>
+<body>
+<Title><font format="underline">&Title</font></Title>
+<pgbreak number "198">
+<space></space>
+<body style="font-family:Arial;font-size:14;color:black">
+<p>(Here Mr. Carmichael, who was reading
+Virgil, blew out his candle.)</paragraph>
+<space></space>
+<chapnumber><font color="blue">3</font></chapnumber>
+<space></space>
+<p>But what after all is one night? A short space,
+especially when the darkness dims so soon, and
+so soon a bird sings, a cock crows loudly, or a faint
+<font format="highlight">green</font> quickens, like a turning leaf, in the hollow of<!-- making assumption that green is only highlighting option -->
+the wave.</p>
+<p>It seemed now as if, touched by human
+penitence and all its tool, divine goodness had
+parted the curtain and displayed behind it, single,
+distinct, <font format="bold">the hare erect</font>; the wave falling; the boat
+rocking, which, did we deserve them, should be</p>
+<space></space>
+<pgnumber><font format="italics">198</font></pgnumber>
+</pgbreak>
+</body>
+</book>
