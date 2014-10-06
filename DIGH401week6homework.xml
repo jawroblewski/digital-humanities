@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+	<collection type="University Photographs">
+		<image identifier="0001" type="photograph" size="4x6" extent="1">
+			<sourceinfo>
+				<datecreated>1947-10-07</datecreated>
+				<sourcelocation>Benedictine University Archives, Lisle, IL.</sourcelocation>
+				<donor>N/A</donor>
+				<creator>Richard Shonka</creator>
+			</sourceinfo>
+			<encoding>
+				<dateencoded>2014-10-04<dateencoded>
+				<digitizing>original photograph  digitized in 2011 as TIFF. Display version in JPEG format</digitizing>
+				<URL>www.something.edu/s0001</URL>
+				<fileformat>jpeg</fileformat>
+			</encoding>
+			<access>There are no known U.S. copyright restrictions on this image. The digital file is owned by the Benedictine University Archives which is making it freely available for noncommercial use through a Creative Commons Noncommercial Attribution license with the request that the archives be credited as its source.</acces>
+			<description>
+				<title>Homecoming 1947</title>
+				<subject dublincore="Homecoming"</subject>
+				<location city="Lisle" state="IL" country="U.S."</location>
+				<narrative>"students standing in front of bonfire in quad"</narrative>
+			</description>
+		</image>
+		<image identifier="0002" type="photograph" size="8x10" extent="1">
+			<sourceinfo>
+				<datecreated>1978-09-08</datecreated>
+				<sourcelocation>Benedictine University Archives, Lisle, IL.</sourcelocation>
+				<donor>N/A</donor>
+				<creator>Eliott Peppers</creator>
+			</sourceinfo>
+			<encoding>
+				<dateencoded>1978-04-24<dateencoded>
+				<digitizing>original photograph  digitized in 2014 as TIFF. Display version in JPEG format</digitizing>
+				<URL>www.something.edu/s0002</URL>
+				<fileformat>jpeg</fileformat>
+			</encoding>
+			<access>There are no known U.S. copyright restrictions on this image. The digital file is owned by the Benedictine University Archives which is making it freely available for noncommercial use through a Creative Commons Noncommercial Attribution license with the request that the archives be credited as its source.</acces>
+			<description>
+				<title>Model U.N. team competes in nationals in New York</title>
+				<subject dublincore="Student Activities"</subject>
+				<location city="New York" state="NY" country="U.S."</location>
+				<narrative>6 students from Illinois Benedictine College Model U.N. team seated at conference room table</narrative>
+			</description>		
+ 		</image>
+		<image identifier="0003" type="digital image" format="jpeg" extent="1">
+			<sourceinfo>
+				<datecreated>2014-07-18</datecreated>
+				<sourcelocation>Benedictine University Archives, Lisle, IL.</sourcelocation>
+				<donor>N/A</donor>
+				<creator>Max Bednarski</creator>
+			</sourceinfo>
+			<encoding>
+				<dateencoded>2014-10-04<dateencoded>
+				<digitizing>original image captured as JPEG. Display version in JPEG format</digitizing>
+				<URL>www.something.edu/s0003</URL>
+				<fileformat>jpeg</fileformat>
+			</encoding>
+			<access>There are no known U.S. copyright restrictions on this image. The digital file is owned by the Benedictine University Archives which is making it freely available for noncommercial use through a Creative Commons Noncommercial Attribution license with the request that the archives be credited as its source.</acces>
+			<description>
+				<title>Georgian delegation visits campus</title>
+				<subject dublincore="Campus Events"</subject>
+				<location city="Lisle" state="IL" country="U.S."</location>
+				<narrative>Georgian diplomatic delegation seated with hosts in Kindlon Hall</narrative>
+			</description>	
+			</image>	
+			<image identifier="0004" type="glass plate negative" size="3x4" extent="1">
+			<sourceinfo>
+				<datecreated>1914-09-08</datecreated>
+				<sourcelocation>Benedictine University Archives, Lisle, IL.</sourcelocation>
+				<donor>N/A</donor>
+				<creator>Edmund Jurica</creator>
+			</sourceinfo>
+			<encoding>
+				<dateencoded>2014-10-04<dateencoded>
+				<digitizing>original negative digitized in 2011 as TIFF. Display version in JPEG format</digitizing>
+				<URL>www.something.edu/s0004</URL>
+				<fileformat>jpeg</fileformat>
+			</encoding>
+			<access>There are no known U.S. copyright restrictions on this image. The digital file is owned by the Benedictine University Archives which is making it freely available for noncommercial use through a Creative Commons Noncommercial Attribution license with the request that the archives be credited as its source.</acces>
+			<description>
+				<title>Fall foliage in Morton Arboretum</title>
+				<subject dublincore="Landscape"</subject>
+				<location entity="Morton Arboretum" city="Lisle" state="IL" country="U.S."</location>
+				<narrative>Main walking trail in Morton Arboretum</narrative>
+			</description>	
+		</image>	
+		<image identifier="0001" type="photograph" size="3x4" extent="1">
+			<sourceinfo>
+				<datecreated>1922-09-08</datecreated>
+				<sourcelocation>Benedictine University Archives, Lisle, IL.</sourcelocation>
+				<donor>John Jochman</donor>
+				<creator>Unknown</creator>
+			</sourceinfo>
+			<encoding>
+				<dateencoded>2014-10-04<dateencoded>
+				<digitizing>original image digitized in 2011 as TIFF. Display version in JPEG format</digitizing>
+				<URL>www.something.edu/s0005</URL>
+				<fileformat>jpeg</fileformat>
+			</encoding>
+			<access>There are no known U.S. copyright restrictions on this image. The digital file is owned by the Benedictine University Archives which is making it freely available for noncommercial use through a Creative Commons Noncommercial Attribution license with the request that the archives be credited as its source.</acces>
+			<description>
+				<title>Downtown Chicago</title>
+				<subject dublincore="Chicago"</subject>
+				<location entity="Morton Arboretum" city="Chicago" state="IL" country="U.S."</location>
+				<narrative>View from water of Michigan Avenue near Monroe intersection</narrative>
+		</image>
+	</collection>
+</repository>
