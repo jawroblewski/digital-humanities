@@ -17,8 +17,8 @@
 			<access>There are no known U.S. copyright restrictions on this image. The digital file is owned by the Benedictine University Archives which is making it freely available for noncommercial use through a Creative Commons Noncommercial Attribution license with the request that the archives be credited as its source.</acces>
 			<description>
 				<title>Homecoming 1947</title>
-				<subject dublincore="Homecoming"</subject>
-				<location city="Lisle" state="IL" country="U.S."</location>
+				<subject dublincore="Homecoming"></subject>
+				<location city="Lisle" state="IL" country="U.S."></location>
 				<narrative>"students standing in front of bonfire in quad"</narrative>
 			</description>
 		</image>
@@ -38,8 +38,8 @@
 			<access>There are no known U.S. copyright restrictions on this image. The digital file is owned by the Benedictine University Archives which is making it freely available for noncommercial use through a Creative Commons Noncommercial Attribution license with the request that the archives be credited as its source.</acces>
 			<description>
 				<title>Model U.N. team competes in nationals in New York</title>
-				<subject dublincore="Student Activities"</subject>
-				<location city="New York" state="NY" country="U.S."</location>
+				<subject dublincore="Student Activities"></subject>
+				<location city="New York" state="NY" country="U.S."></location>
 				<narrative>6 students from Illinois Benedictine College Model U.N. team seated at conference room table</narrative>
 			</description>		
  		</image>
@@ -59,8 +59,8 @@
 			<access>There are no known U.S. copyright restrictions on this image. The digital file is owned by the Benedictine University Archives which is making it freely available for noncommercial use through a Creative Commons Noncommercial Attribution license with the request that the archives be credited as its source.</acces>
 			<description>
 				<title>Georgian delegation visits campus</title>
-				<subject dublincore="Campus Events"</subject>
-				<location city="Lisle" state="IL" country="U.S."</location>
+				<subject dublincore="Campus Events"></subject>
+				<location city="Lisle" state="IL" country="U.S."></location>
 				<narrative>Georgian diplomatic delegation seated with hosts in Kindlon Hall</narrative>
 			</description>	
 			</image>	
@@ -80,8 +80,8 @@
 			<access>There are no known U.S. copyright restrictions on this image. The digital file is owned by the Benedictine University Archives which is making it freely available for noncommercial use through a Creative Commons Noncommercial Attribution license with the request that the archives be credited as its source.</acces>
 			<description>
 				<title>Fall foliage in Morton Arboretum</title>
-				<subject dublincore="Landscape"</subject>
-				<location entity="Morton Arboretum" city="Lisle" state="IL" country="U.S."</location>
+				<subject dublincore="Landscape"></subject>
+				<location entity="Morton Arboretum" city="Lisle" state="IL" country="U.S."></location>
 				<narrative>Main walking trail in Morton Arboretum</narrative>
 			</description>	
 		</image>	
@@ -101,8 +101,8 @@
 			<access>There are no known U.S. copyright restrictions on this image. The digital file is owned by the Benedictine University Archives which is making it freely available for noncommercial use through a Creative Commons Noncommercial Attribution license with the request that the archives be credited as its source.</acces>
 			<description>
 				<title>Downtown Chicago</title>
-				<subject dublincore="Chicago"</subject>
-				<location entity="Morton Arboretum" city="Chicago" state="IL" country="U.S."</location>
+				<subject dublincore="Chicago"></subject>
+				<location entity="Morton Arboretum" city="Chicago" state="IL" country="U.S."></location>
 				<narrative>View from water of Michigan Avenue near Monroe intersection</narrative>
 		</image>
 	</collection>
