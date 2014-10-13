@@ -1,0 +1,202 @@
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Something Wicked This Way Comes</title>
+</titleStmt>
+<publicationStmt>
+ <publisher>Avon Books</publisher>
+ <pubPlace>New York, New York</pubPlace>
+ <availability>
+  <p>All rights reserved.</p>
+ </availability>
+ <date>1997</date>
+</publicationStmt>
+<!--Publication Information-->
+</p>
+</publicationStmt>
+<sourceDesc>
+<p>First Avon books printing 1998 in paperback</p>
+<bibl>
+<author>Ray Bradbury</author>
+   <title>Something Wicked This Way Comes</title>
+   <imprint>
+    <pubPlace>New York, New York</pubPlace>
+    <publisher>Avon books, An Imprint of HarperCollins Publishers</publisher>
+    <date>1997</date>
+   </imprint>
+</bibl>
+<!--Information about the source-->
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<front>
+ <titlePage>
+ <docAuthor rend="bold" rend="align center">Ray Bradbury</docAuthor>	
+  	<docTitle>
+  	 <title rend="bold" rend="align center">Something Wicked This Way Comes</titlePart>
+ 	 </docTitle>
+  	<docImprint>
+   	<publisher>
+	<li rend="align center">Avon Books</li>
+	<li rend="align center">An Imprint of HarperCollins Publishers</li>
+   	</publisher>
+  	</docImprint>
+ </titlePage>
+<front>
+<pb>
+<div1 type="dedication">
+  <p rend="italic">
+<li>With love</li> 
+<li>to the memory of</li>  
+<li>GENE KELLY,</li>  
+<li>whose performances</li>  
+<li>influenced and</li> 
+<li><hi rend="underlined">changed my life</hi></li> 
+</p>
+</div1>
+<pb>
+<div1="contents">
+<head rend="align(center) style(bold) underlined">Contents</head> 
+<p rend="align(center) case(allcaps)">
+<li>PROLOGUE</li>
+<li>I</li>
+<li>ARRIVALS</li>
+<li>3</li>
+<li>II</li>
+<li>PURSUITS</li>
+<li>119</li>
+<li>III</li>
+<li>DEPARTURES</li>
+<li>233</li>
+<li>IV</li>
+<li>A BRIEF AFTERWORD</li>
+<li>291</li>
+</p>
+</div1>
+ <div1>
+ <epigraph>
+  <quote> 
+<li>Man is in love, and loves what vanishes.</li>
+<li rend="align(right) case(all caps)>-W.B. YEATS.</li>
+  </quote>
+<quote>
+<li>They sleep not, except they have done mischief;</li>
+<li>And their sleep is taken away, unless they cause</li>
+<li>some to fall.</li>
+<li>for they eat the bread of wickedness,</li>
+<li>And drink the wine of violence.</li>
+<li rend="align(right) case(allcaps)>-Proverbs 4:16-17</li>
+<li>I know not all that may be coming, but be it</li>
+<li>what it will, I'll go to it laughing.</li>
+<li rend="align(right) case(allcaps)>-STUBB in Moby Dick</li>
+ </epigraph>
+</div1>
+<pb n="1"> 
+<div1 type="prologue">
+<head rend="align(center) style(bold) underlined">Prologue</head> 
+<p>
+<li>First of all, it was October, a rare month for boys.</li>
+<li>Not that all months aren't rare. </li>
+<li>But there be bad and good, as the pirates say. Take September, a bad</li>
+<li>month: school begins. consider August, a good</li>
+<li>month: school hasn't begun yet. July, well, July's</li>
+<li>really fine: there's no chance in the world for school.</li>
+<li>June, no dbouting it, June's best of all, for the school doors spring wide and September's a billion years</li> 
+<li>away.</li>
+</p>
+<p>
+<li>But you take October, now. School's been on a</li>
+<li>month and you're riding easier in the reins, jobbing</li>
+<li>along. You got time to think of the garbage you'll </li>
+<li>dump on old man Prickett's porch, or the hairy-ape</li>
+<li>costume you'll wear to the YMCA the last night of</li>
+<li>the month. And if it's around <date when="10-20">H>October twentieth</date> and</li>
+<li>everything smoky-smelling and the sky orange and</li>
+<li>ash gray at twighlight, it seems <date when="10-31">Halloween</date> will never</li>
+<li>come in a fall of broomsticks and a soft flap of bed-</li>
+<li>sheets around corners.</li>
+</p>
+<p>
+<li>But one strange wild dark long year, <date when="10-31">Halloween</date></li>
+<li>came early.</li>
+</p>
+<p>
+<li>One year <date when="10-31">Halloween</date> came on October 24<date when="10-24">, three</li>
+<li>hours after midnight.</li>
+</p> 
+<p>
+<li>At that time, James Nightshade of 97 Oak Street</li>
+<fw place="bottom" rend="align(center)" type="pageNum">1</fw>
+<pb n="2">
+<fw place="top" rend="align(left)" type="pageNum">2</fw>
+<fw place="top" rend="align(center) case(allcaps)">RAY BRADBURY</fw>
+<li>was thirteen years, eleven months, twenty-three days</li>
+<li>old. Next door, William Halloway was thirten</li>
+<li>years, eleven months and twenty-four days old. Both</li>
+<li>touched toward fourteen; it almost trembled in their</li>
+<li>hands.
+</p>
+<p>
+<li>And that was the October week when they grew</li>
+<li>up overnight, and were never so young any </li>
+<li>more . . . </li>
+</p>
+</front>
+<pb n="3">
+</div1>
+<div1 type="section">
+<head rend="align(center) style(bold) underlined">
+<li>I</li>.
+<li>Arrivals</li>
+</head>
+<pb n="4">
+<pb n="5">
+<div2>
+<head rend="align(center) style(bold) underlined">Chapter 1</head>
+<p>
+<li>The seller of lightning rods arrived just ahead of</li> 
+<li>the storm. He came along the street of Green Town,</li> 
+<li>Illinois, in the late cloudy October day, sneaking</li> 
+<li>glances over his shoulder. Somewhere not so far</li> 
+<li>back, vast lightinings stomped the earth. Somewhere not so far</li> 
+<li>back, vast lightnings stomped the earth. Somewhere,</li> 
+<li>a storm like a great beast with terrible teeth could</li> 
+<li>not be denied.</li> 
+</p>
+<p>
+<li>So the salesman jangled and clanged his huge</li> 
+<li>leather kit in which oversized puzzles of ironmon-</li> 
+<li>gery lay unseen but which his tongue conjured from</li> 
+<li>door to door until he came at last to a lawn which</li> 
+<li>was cut all wrong.</li> 
+</p>
+<p>
+<li>No, not the grass. The salesman lifted his gaze.</li>  
+<li>But two boys, far up the gentle slope, lying <hi rend="italics">on</hi> the</li> 
+<li>grass.Of a like size and genral shape, the boys sat</li> 
+<li>carving twig whistles, talking of olden or future</li> 
+<li>times, content with having left their fingerprints on</li> 
+<li>every movable object in Green Town during summer</li> 
+<li>past and their footprints on every open path between</li> 
+<li>here and the lake and there and the river since school</li> 
+<li>began.</li> 
+</p>
+<p>
+<q>
+<li>Howdy, boys!</q> called the man all dressed in</li> 
+<li>storm-colored clothes. <q>Folks home?</q></li>
+</p>
+<p>
+<li>The boys shook their heads.</li>
+</p>
+</div2>
+</div1>
+<fw place="bottom" rend="align(center)" type="pageNum">5</fw>
+</front>
+<!--Some structural division, paragraph, line group, speech, ...-->
+</body>
+</text>
+</TEI>
