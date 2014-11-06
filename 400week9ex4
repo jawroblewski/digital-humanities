@@ -1,0 +1,98 @@
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>To The Lighthouse</title>
+<respStmt>
+<resp>author</resp>
+<name xml:id="VW">Virginia Woolf</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Hogarth Press</publisher>
+<pubPlace>52 Tavistock Square, London, W.C.</pubPlace>
+<date>1927</date>
+</publicationStmt>
+<sourceDesc>
+<p>First edition, published by Leonard & Virgina Woolf at the Hogarth Press</p>
+</sourceDesc>
+</fileDesc>
+<langUsage>
+<language ident="eng">English</language>
+</langUsage
+</teiHeader>
+<text>
+<body>
+<div>
+<p>
+<lb>[Here <choice><abbr type="title">Mr.</abbr><expan>Mister</expan></choice> <<persName><surname>Carmichael</surname>, who was reading <persName><surname>Virgil</surname>,</lb> 
+blew out his candle. It was <time when="00:00:00">midnight</time>.]</lb> 
+</p>
+</div>
+<div>
+III
+<p>
+<lb rend="indent">But what after all is one night? A short space,</lb>
+<lb>especially when the darkness dims so soon, and so</lb>  
+<lb>soon a bird sings , a cock crows, or a faint green</lb> 
+<lb>quickns, like a turning leaf, in the hollow of a</lb>  
+<lb>wave. Night, however, succeeds to night. The winter</lb>  
+<lb>holds a pack of them in store and deals them equally,</lb> 
+<lb>evenly, with indefatigable fingers. They lengthen;</lb> 
+<lb>they darken. Some of them hold aloft clear planets,</lb> 
+<lb>plates of brightness. The autumn trees, ravaged as</lb> 
+<lb>they are, take on the flash of tattered flags kindling</lb> 
+<lb>in the gloom of cool cathedral caves where gold</lb>  
+<lb>letters on marble pages describe death in battle and</lb> 
+<lb>how bones bleach and burn far away in <place><country>Indian</country></place></lb>  
+<lb>sands. The autumn tres gleam in the yellow moon-</lb> 
+<lb>light, in the light of harvest moons, the light which</lb> 
+<lb>mellows the energy of labour and smooths the</lb> 
+<lb>stubble, and brings the wave lapping blue to the</lb> 
+<lb>shore.</lb> 
+</p>
+<fw place="top" rend="align(center) case(allcaps)">To The Lighthouse</fw>
+<p>
+<lb rend="indent">It seemed now as if, touch by human penitence</lb> 
+<lb>and all its toil, divine goodness had parted the cur-</lb> 
+<lb>tain and displayed behind it, single, distinct, the</lb> 
+<lb>hare erect; the wave falling; the boat rocking;</lb> 
+<fw place="bottom rend=align(leftindent)" type="pageNum">192</fw>
+<pb="192">
+<fw place="top" rend="align(center) case(allcaps)">Time Passes</fw>
+<lb> which, did we deserve them, should be ours always.</lb> 
+<lb>But alas, divine goodness, twitiching the cord, draws</lb> 
+<lb>the curtain; it does not please him; he covers his</lb>  
+<lb>treasures in a drench of hail, and so breaks them,</lb> 
+<lb>so confuses them that it seems impossible that their</lb> 
+<lb>calm should ever return or that we should ever com-</lb> 
+<lb>pose from their fragments a perfect whole or read</lb> 
+<lb>in the littered pieces the clear words of truth. For</lb> 
+<lb>our penitence deserves a glimplse only; our toil</lb> 
+<lb>respite only.</lb> 
+</p>
+<p>
+<lb rend="indent">The nights now are full of wind and destruction;</lb>
+<lb>the trees plunge and bend and their leaves fly helter</lb> 
+<lb>skelter until the lawn is plastered with them and</lb> 
+<lb>they lie packed in gutters and choke rain pipes and</lb> 
+<lb>scatter damp paths. Also the sea tosses itself and</lb> 
+<lb>breaks itself, and should any sleeper fancying that</lb>  
+<lb>he might find on the beach an answer to his doubts,</lb> 
+<lb>a sharer of his solitude, throw off his bedclothes and</lb> 
+<lb>go down by himself to walk on the sand, no image</lb> 
+<lb>with semblance of serving and divne promptitude</lb>  
+<lb>come readily to hand brining the night to order</lb>  
+<lb>and making the world reflect the compass of the soul.</lb> 
+<lb>The hand dwindles in his hand; the voice bellows in</lb> 
+<lb>his ear. Almost it would appear that it is useless</lb>  
+<lb>in such confusion to ask the night those questions as</lb>  
+<lb>to what, and why, and wherefore, which tempt the</lb> 
+<lb>sleeper from his bed to seek and answer.</lb> 
+</p>
+<fw place="bottom" rend="align(leftindent)" type="pageNum">193</fw>
+<pb n="193">
+</div>
+</body>
+</text>
+</TEI>
