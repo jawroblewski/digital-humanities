@@ -30,7 +30,8 @@ blew out his candle. It was <time when="00:00:00">midnight</time>.]</lb>
 </p>
 </div>
 <div>
-III
+<char>
+<lb><charProp><value>3</value></charProp>III</char></lb>
 <p>
 <lb rend="indent">But what after all is one night? A short space,</lb>
 <lb>especially when the darkness dims so soon, and so</lb>  
