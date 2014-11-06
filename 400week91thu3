@@ -1,0 +1,58 @@
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>To The Lighthouse</title>
+<respStmt>
+<resp>author</resp>
+<name xml:id="VW">Virginia Woolf</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Hogarth Press</publisher>
+<pubPlace>52 Tavistock Square, London, W.C.</pubPlace>
+<date>1927</date>
+</publicationStmt>
+<sourceDesc>
+<p>First edition, published by Leonard & Virgina Woolf at the Hogarth Press</p>
+</sourceDesc>
+</fileDesc>
+<langUsage>
+  <language ident="eng">English</language>
+ </langUsage
+</teiHeader>
+<text>
+<body>
+<front>
+<titlePage>
+<docTitle>
+<title font-style(boldlarge) rend="bold" rend="align(center) case(allcaps)">To The Lighthouse</title>
+<docAuthor rend="font-style(medium) align(center) case(allcaps)">Virginia Woolf</docAuthor>
+<figure>
+ <graphic url="Fig1.jpg"/>
+ <figDesc>Drawing of a wolf head in profile, facing left, inside a circle. The circle with a stippled pattern filling it.</figDesc>
+</figure>
+<docImprint>
+<publisher>
+<lb rend="font-style(small) align(center) case(allcaps)">Published By Leonard & Virginia Woolf at the</lb>
+<<lb rend="font-style(small) align(center) case(allcaps)">Hogarth Press, 52 Tavistock square, London, W.C.</lb>
+<lb rend="font-style(small) align(center)">1927</lb>
+</titlePage>
+<pb>
+<p n="7">
+<lb rend="indent"><q>"Good-evening, <choice><abbr type="title">Mrs.</abbr><expan>Missus</expan></choice> <persName><surname>McNab</surname></persName>," </q>she would say.</lb>
+<lb>She had a pleasant way with her. The girls</lb>
+<lb>all liked her. But dear, many things had changed</lb>
+<lb>since then (she shut the drawer); many families</lb>
+<lb>had lost their dearest. So she was dead; and</lb>
+<lb><choice><abbr type="title">Mr.</abbr><expan>Mister</expan></choice><persName><surname>Andrew</surname>
+</persName> killed; and <choice><abbr type="title">Dr</abbr><expan>Doctor</expan></choice><persName><surname>Prue</surname></persName> dead too,</lb>
+<lb>they said, with her first baby; but every one had</lb>
+<lb>lost some one these years. Prices had gone up</lb>
+<lb>shamefully, and didn't come down again neither.</lb>      
+<lb>She could well remember her in her grey cloak.</lb>
+</p>
+</div>
+</body>
+</text>
+</TEI>
