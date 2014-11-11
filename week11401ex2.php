@@ -1,9 +1,8 @@
 <?php
-$tasks = array();
-$tasks[0] = 'task1';
+$tasks= array();
+$stasks[0] = 'Task1';
 echo $tasks[0].'<br />';
-array_pad($tasks,5,"task2", "task3" "task4" "task5");
-print_r($tasks);
-array_shift($tasks);
-print_r($tasks);
-?> 
+array_push($tasks, 'task2');
+echo $tasks[1].'<br />';
+echo array_shift($tasks);
+?>
