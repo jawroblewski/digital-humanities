@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="murakamicatalogue.xsl"?>
+<catalogue>
+<biblFull>
+ <titleStmt>
+  <title>A Wild Sheep Chase</title>
+  <author>Murakami, Haruki</author>
+ </titleStmt>
+ <editionStmt>
+  <edition>US paperback edition</edition>
+<editor role="translator">Alfred Birnbaum</editor>
+ </editionStmt>
+ <extent>353 pp</extent>
+ <publicationStmt>
+  <publisher>Vintage</publisher>
+  <pubPlace>New York</pubPlace>
+  <date>2002</date>
+ </publicationStmt>
+ <sourceDesc>
+  <p>Translated from 1982 Japanese version</p>
+ </sourceDesc>
+</biblFull>
+<biblFull>
+ <titleStmt>
+  <title>Hard-boiled Wonderland and the End of the World</title>
+  <author>Murakami, Haruki</author>
+ </titleStmt>
+ <editionStmt>
+  <edition>US paperback edition</edition>
+<editor role="translator">Alfred Birnbaum</editor>
+ </editionStmt>
+ <extent>416 pp</extent>
+ <publicationStmt>
+  <publisher>Vintage</publisher>
+  <pubPlace>New YOrk</pubPlace>
+  <date>1993</date>
+ </publicationStmt>
+ <sourceDesc>
+  <p>Translated from 1985 Japanese version</p>
+ </sourceDesc>
+</biblFull>
+<biblFull>
+ <titleStmt>
+  <title>Norwegian Wood</title>
+  <author>Murakami, Haruki</author>
+ </titleStmt>
+ <editionStmt>
+  <edition>US paperback edition</edition>
+<editor role="translator">Jay Rubin</editor>
+ </editionStmt>
+ <extent>298 pp</extent>
+ <publicationStmt>
+  <publisher>Vintage</publisher>
+  <pubPlace>New YOrk</pubPlace>
+  <date>2000</date>
+ </publicationStmt>
+ <sourceDesc>
+  <p>Translated from 1987 Japanese version</p>
+ </sourceDesc>
+</biblFull>
+<biblFull>
+ <titleStmt>
+  <title>Dance Dance Dance </title>
+  <author>Murakami, Haruki</author>
+ </titleStmt>
+ <editionStmt>
+  <edition>US paperback edition</edition>
+<editor role="translator">Alfred Birnbaum</editor>
+ </editionStmt>
+ <extent>416 pp</extent>
+ <publicationStmt>
+  <publisher>Vintage</publisher>
+  <pubPlace>New York</pubPlace>
+  <date>1995</date>
+ </publicationStmt>
+ <sourceDesc>
+  <p>Translated from 1988 Japanese version</p>
+ </sourceDesc>
+</biblFull>
+<biblFull>
+ <titleStmt>
+  <title>South of the Border, West of the Sun</title>
+  <author>Murakami, Haruki</author>
+ </titleStmt>
+ <editionStmt>
+  <edition>US paperback reprint edition</edition>
+<editor role="translator">Alfred Birnbaum</editor>
+ </editionStmt>
+ <extent>213 pp</extent>
+ <publicationStmt>
+  <publisher>Vintage</publisher>
+  <pubPlace>New York</pubPlace>
+  <date>2000</date>
+ </publicationStmt>
+ <sourceDesc>
+  <p>Translated from 1992 Japanese version</p>
+ </sourceDesc>
+</biblFull>
+<biblFull>
+ <titleStmt>
+  <title>The Wind-Up Bird Chronicle</title>
+  <author>Murakami, Haruki</author>
+ </titleStmt>
+ <editionStmt>
+  <edition>1st International edition</edition>
+<editor role="translator">Jay Rubin</editor>
+ </editionStmt>
+ <extent>607 pp</extent>
+ <publicationStmt>
+  <publisher>Vintage</publisher>
+  <pubPlace>New York</pubPlace>
+  <date>1998</date>
+ </publicationStmt>
+ <sourceDesc>
+  <p>Translated from 1994 Japanese version</p>
+ </sourceDesc>
+</biblFull>
+<biblFull>
+ <titleStmt>
+  <title>Sputnik Sweethart</title>
+  <author>Murakami, Haruki</author>
+ </titleStmt>
+ <editionStmt>
+  <edition>US paperback reprint edition</edition>
+<editor role="translator">Philip Gabriel</editor>
+ </editionStmt>
+ <extent>210 pp</extent>
+ <publicationStmt>
+  <publisher>Vintage</publisher>
+  <pubPlace>New York</pubPlace>
+  <date>2002</date>
+ </publicationStmt>
+ <sourceDesc>
+  <p>Translated from 1999 Japanese version</p>
+ </sourceDesc>
+</biblFull>
+<biblFull>
+ <titleStmt>
+  <title>Kafka on the Shore</title>
+  <author>Murakami, Haruki</author>
+ </titleStmt>
+ <editionStmt>
+  <edition>US hardcover edition</edition>
+<editor role="translator">Philip Gabriel</editor>
+ </editionStmt>
+ <extent>416 pp</extent>
+ <publicationStmt>
+  <publisher>Vintage</publisher>
+  <pubPlace>New York</pubPlace>
+  <date>1993</date>
+ </publicationStmt>
+ <sourceDesc>
+  <p>Translated from 2002 Japanese version</p>
+ </sourceDesc>
+</biblFull>
+<biblFull>
+ <titleStmt>
+  <title>After Dark</title>
+  <author>Murakami, Haruki</author>
+ </titleStmt>
+ <editionStmt>
+  <edition>US paperback reprint edition</edition>
+<editor role="translator">Jay Rubin</editor>
+ </editionStmt>
+ <extent>256 pp</extent>
+ <publicationStmt>
+  <publisher>Vintage</publisher>
+  <pubPlace>New York</pubPlace>
+  <date>2008</date>
+ </publicationStmt>
+ <sourceDesc>
+  <p>Translated from 2004 Japanese version</p>
+ </sourceDesc>
+</biblFull>
+
+
+<biblFull>
+ <titleStmt>
+  <title>1Q84</title>
+  <author>Murakami, Haruki</author>
+ </titleStmt>
+ <editionStmt>
+  <edition>first edition</edition>
+<editor role="translator">Jay Rubin</editor>
+<editor role="translator">Philip Gabriel</editor>
+ </editionStmt>
+ <extent>944 pp</extent>
+ <publicationStmt>
+  <publisher>Knopf</publisher>
+  <pubPlace>New York</pubPlace>
+  <date>2011</date>
+ </publicationStmt>
+ <sourceDesc>
+  <p>Translated from 2009 Japanese version</p>
+ </sourceDesc>
+</biblFull>
+<biblFull>
+ <titleStmt>
+  <title>The Elephant Vanishes: Stories</title>
+  <author>Murakami, Haruki</author>
+ </titleStmt>
+ <editionStmt>
+  <edition>US edition</edition>
+<editor role="translator">Alfred Birnbaum</editor>
+<editor role="translator">Jay Rubin</editor>
+ </editionStmt>
+ <extent>336 pp</extent>
+ <publicationStmt>
+  <publisher>Vintage</publisher>
+  <pubPlace>New York</pubPlace>
+  <date>1994</date>
+ </publicationStmt>
+ <sourceDesc>
+  <p>Translated from 1991 Japanese version</p>
+ </sourceDesc>
+</biblFull>
+<biblFull>
+ <titleStmt>
+  <title>After the Quake</title>
+  <author>Murakami, Haruki</author>
+ </titleStmt>
+ <editionStmt>
+  <edition>US edition</edition>
+<editor role="translator">Jay Rubin</editor>
+ </editionStmt>
+ <extent>147 pp</extent>
+ <publicationStmt>
+  <publisher>Vintage</publisher>
+  <pubPlace>New York</pubPlace>
+  <date>2003</date>
+ </publicationStmt>
+ <sourceDesc>
+  <p>Translated from 2000 Japanese version</p>
+ </sourceDesc>
+</biblFull>
+<biblFull>
+ <titleStmt>
+  <title>Blind Willow, Sleeping Woman</title>
+  <author>Murakami, Haruki</author>
+ </titleStmt>
+ <editionStmt>
+  <edition>US paperback reprint</edition>
+<editor role="translator">Jay Rubin</editor>
+<editor role="translator">Philip Gabriel</editor>
+ </editionStmt>
+ <extent>384 pp</extent>
+ <publicationStmt>
+  <publisher>Vintage</publisher>
+  <pubPlace>New York</pubPlace>
+  <date>1993</date>
+ </publicationStmt>
+ <sourceDesc>
+  <p>Translated from 2005 Japanese version</p>
+ </sourceDesc>
+</biblFull>
+</catalogue>
