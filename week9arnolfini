@@ -1,0 +1,79 @@
+I was unsure how to mark the coordinates so I divided the picture into 9 segments (top to bottom, left to right) number 1 -9. 
+It's my archival image description habits. 
+
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Portrait of Giovanni(?) Arnolfini and his Wife</title>
+<respStmt>
+<resp>artist</resp>
+<name xml:id="JVE">Jan Van Eyck</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>The National Gallery</publisher>
+<pubPlace>London</pub>
+<date>1434</date>
+</publicationStmt>
+</fileDesc>
+<sourceDesc>
+<p>Digital facsimile on the National Gallery website</p>
+</sourceDesc>
+</teiHeader>
+<text>
+<body
+<facsimile>
+ <graphic url="http://students.ctsdh.luc.edu/classes/400/media/2014/arnolfini.jpg"/>
+  <zone ulx="1" uly="1" lrx="1" lry="1">
+  <desc>upper left segment with man's head</descr>
+   <transcr>Man, <persName><forname>Giovanni</forname> <surName>di Nicolao Arnolfini</surName>, wearing black top hat. A wood-framed window with blue, red, and clear stained glass in a circular pattern in its upper half appears to his left. A gray or beige wall in shadow appears behind his head. <transcr>
+  <zone ulx="2" uly="2" lrx="2" lry="2">
+  <descr>upper center segment</descr>
+   <transcr>A brass six-armed chandelier hangs from the ceiling to the right of the man's head. The signature of <persname>Jan Van Eyck<perName>appears below it in brown script. Below van Eyck's name the year of the painting, <date>1434</date>appears.</transcr>
+  </zone>
+  <zone ulx="3" uly="3" lrx="3" lry="3">
+  <descr>upper right segment</descr>
+  <transcr>A woman with reddish blonde hair pulled back and wearing a gold necklace and a white cloth or veil cover her hair and back of head stands in front of 
+  a carved wooden bedframe with a red canopy and red linens. A small whisk broom hangs from the top left bed post. The woman's head is turned slightly to her right, toward the man and her eyes are slightly downcast.
+  </transcr>
+  </zone>
+  <zone ulx="4" uly="4" lrx="4" lry="4">
+  <descr>center left segment</descr>
+  <transcr>The Lower half of the window frame with a wooden grate and shutters, and a piece of fruit on the sill appears in the far left. Next to it, the man wearing a black undertunic and  brown overtunic stands with his right hand raised.
+  On his right index finger is a gold ring. Below the window and behind the man is partial view of a wooden dresser with three pieces of fruit on top.
+  </transcr>
+  </zone>
+<zone ulx="5" uly="5" lrx="5" lry="5">
+<descr>center segment</descr>
+<transcr>Convext mirror in frame depicting stations of the cross hangs on the wall. The mirror reflects the rear view of the scene.
+A string of amber colored glass beads with green tassels on each end hangs to the left of the mirror. Below the mirror is a carved wood chair or daybed with red upholstery and pillows.
+</transcr>
+</zone>
+<zone ulx="6" uly="6" lrx="6" lry="6">
+<descr>center right segment<descr>
+<transcr>The woman wears a green overdress and cape trimmed in white fur over an under dress with textured or embroidered blue sleeves and gold cuffs.
+Her clothing is belted with a brown woven belt in a way that makes her stomach appear swollen, similar to the effects of pregnancy. The back of her open right hand rests against the man's open palm of his left hand. Her left hand gathers some of her skirt over her stomach.
+On her right hand, she wears gold bands above the first knuckle on the little and ring fingers</surface>
+</zone>
+<zone ulx="7" uly="7" lrx="7" lry="7">
+<descr>lower left segment</descr>
+<transcr>
+A pair of wooden clogs rest on the floor to the left of the man's feet and point toward the wall. The bottom of the man's tunic is trimmed in fur and below it he wears black stockings or boots with a pointed toe.
+</transcr>
+</zone>
+<zone ulx="8" uly="8" lrx=8" lry="8">
+<descr>center left segment</descr>
+<transcr>A small brown fluffy dog stands on the wooden wide-planked floor facing the woman. Behind the dog and the bottom of the woman's dress, the edge of a red patterned rug is visible on the floor.
+On the edge of the rug, in front of the chair, a pair of red open toe slippers lie on top of each other on the floor.
+<transcr>
+<zone ulx="9" uly="9"> lrx="9" lry="9">
+<descr>lower right segment</descr>
+<transcr>The woman's green gown with white trim shows a ruffled side panel and falls in overlapping folds onto the wooden floor.
+</transcr>
+</zone>
+</facsimile>
+</body>
+</text>
+
+ 
