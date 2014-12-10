@@ -1,0 +1,158 @@
+Project Title: Constructing Place: Mapping Chicagoland Communities
+Institution: Loyola University
+Project Directors: Julie Wroblewski
+Grant Program: Digital Humanities Start-Up Grants, Level 1Table of Contents
+
+List of Participants
+Julie Wroblewski, Benedictine University and Loyola University
+Margaret Heller, Loyola University and Read/Write Library
+Amy Killebrew, Columbia College
+Michael Diakoumis, Loyola University
+Jane Doe, Loyola University
+Mary M. Case, Chicago Collections Consortium Board Chair and University of Illinois at Chicago
+Andrew Bullen, Illinois State Library
+Sandra Fritz, Illinois State Library
+Peter Alter, Chicago History Museum Representative, Chicago Public Library
+Representative, Digital Public Library of America
+Representative, College and Research Libraries of Illinois (CARLI)
+Brian Bannon, Chicago Public Library CEO
+Brenna Berman, City of Chicago Chief Technology Officer
+Abstract
+Abstract
+This project will create a publicly-available tool for multi-dimensional, augmented reality map of Chicagoland communities and their cultural output over time and across socio-economic groups. Through a web-based portal and mobile application, users will be able to see and manipulate layers of regional data: community data and statistics, culturally affiliated institutions (faith centers, cultural centers, businesses), historical images drawn (including landmarks, buildings, public art, and events) from a variety of digital repositories, audio (primarily oral histories), video, social media references with geographic or culturally-specific tags or coordinates, and digitized texts (including oral history and transcripts, theatrical scripts, and fictional works from selected authors). The portal will also make available some predetermined data visualizations of locations, time periods, and thematic groupings. By collating the breadth of cultural, textual, archival, and historical data with census and community data, this project will open up a new way of mapping, researching, and understanding a metropolitan area and its population. In addition to the free and publicly available portal and mobile application, the code and documentation will be made available through Github to promote other regions and entities to build. The mapping tools will be publicized through a series of community outreach events and through local news and social media. 
+Statement of Innovation
+While the last decade has seen mass digitization of cultural output, and creation of large content and data sets explode, utility of this output has yet to truly develop. This project innovates by bringing together many disparate and often under-used digital historical collections scattered across institutions and making it easily and readily available for both research. It democratizes both the collection and usage of this massive amount of information by drawing upon publicly generated content in social media and by making it easy for non-scholarly users to access and manipulate. The widely and easily accessible portal and mobile app will also promote members of the community to continue documenting their cultural landscape through the various data sources that feed into it, leading to a richer and more significant pool of data for future research. 
+Statement of Humanities Significance
+This project seeks to investigate traditional understandings and narrative about regional history and populations, including the stories and patterns documented in relation in migration, cultural beliefs, and community and historical events. By allowing for the manipulation and examination of the largest possible set of cultural, historical, geographic, and civic data for a metropolitan region, we can identify and examine relationships between culture and cultural output in a new way, leading to a new body of research. The resulting portal and mobile application prototypes, code, and documentation will make it possible for other regions to create their own projects and pools of research. 
+4. Narrative
+Enhancing the Humanities Through Innovation
+We request an NEH Digital Humanities Level 1 Start-Up grant to fund the research, development, and release of prototypes for a web portal, mobile application, and data visualization set to support a multi-dimensional map of Chicagoland, its communities, and their cultural output. Through a web-based portal and mobile application, users will be able to see and manipulate layers of regional data: community data and statistics, culturally affiliated institutions (faith centers, cultural centers, businesses), historical images drawn (including landmarks, buildings, public art, and events) from a variety of digital repositories, audio (primarily oral histories), video, social media references with geographic or culturally-specific tags or coordinates, and digitized texts (including oral history and transcripts, theatrical scripts, and fictional works from selected authors).
+Textual and narrative studies, population studies, urban studies and archival research are currently done without the benefit of the full set of historical, socio-economic, and cultural data that exists. The mass digitization of cultural output and creation of large content and data sets has dramatically increase without a comparable increase in the ability to manipulate and make use of this data. By aggregating the full wealth of cultural, textual, archival, and historical data with census and community data, this project will open up a new way of mapping, researching, and understanding a metropolitan area and its population. 
+Creating a web portal and mobile application will allow users to more easily work with these many disparate and under-used digital collections scattered across institutions. Combining them with other community information such as census data, something typically not seen in other tools, it opens up new possibilities and perspectives on community mapping and modeling and on understanding cultural output in a fuller context. The geographic context provides a new multi-dimensional model for viewing place as a social construct by layering the data.
+The tools also use digital humanities as a tool for empowerment by expanding both the collection and usage of this massive amount of information to publicly generated content in social media and ongoing creation and usage by the public. They make it possible for members of the public to continue documenting their cultural landscape through the various data sources that feed into it, to help construct the narrative of community and art in the Chicago-land area. This in turn creates a richer and more significant pool of data for future scholarly research. Finally  by making the technology and documentation freely available, other metropolitan areas can create similar tools and research hubs, thus spurring advances 
+Environmental Scan
+This proposal builds from a number of mapping and digital image projects and integrates with with some key existing digital collections and community data sources. A more descriptive listing of these projects can be found in Appendix A.
+Ethnic Layers of Detroit: Experiencing Place Through Digital Storytelling, http://www.fltc.wayne.edu/eld/projectnews.html
+Stanford Spatial History Project, http://web.stanford.edu/group/spatialhistory/cgi-bin/site/index.php
+American Migrations, http://americanmigrations.uic.edu/
+Digital Public Library of America (DPLA), http://dp.la/
+Historypin, https://www.historypin.org/
+Streetmuseum, http://www.museumoflondon.org.uk/Resources/app/you-are-here-app/home.html
+Google Maps
+History and Duration of the Project
+This project emerged from an assessment of mapping tools and developments and of the future of digitization done for Loyola University’s Center for Textual Studies and Digital Humanities, as well as collaborations and discussions with other cultural repositories about their desire for more widespread and meaningful use of their digital content.
+Work Plan
+The project team will use some laptops and computer equipment purchased with grant money and some supplied by their supporting institutions. Server space will be provided by Loyola University. 
+Phase I Research and Design
+During this phase the project team will research and solidify availability of data sources and quality and content of metadata associated with content; finalize technical design specifications, user interface design, and development timelines; and hold initial meetings with advisory board, community stakeholders and contributing repositories
+Phase II Initial Development and Testing
+In this phase, the project team will create a prototype with an initial subset of layers and data feeds to internally test concept, functionality, and overall usability. There will be at least one to three rounds of testing and adjustments. 
+Phase III In Depth Development and Testing
+The project team add the remaining data sources and layers and internally test again. There will be at least one to three rounds of testing and adjustments. The project team will also conduct a wider usability test using the advisory board, selected community stakeholders, and other selected members of the public. The team will also finalize methods to collecting and analyzing usage and success of the products. In conjunction with this usability testing, the team will also hold a series of outreach events. 
+Phase IV Prototype Launch and Usage Analysis
+Upon completion of a stable prototype, the project team will hold a series of outreach events to promote and demonstrate the products to a variety of community and scholarly audiences. They will also propose a series of articles and conference sessions to bring the project to the research community. The team will collect and analyze the success of the project based on usage data, research output, technical performance, and public awareness of the products and project. Finally, the project director will identify additional potential funding sources, such as the NEH Digital Public Projects grant, to continue improvements and enhancements to the products, to encourage more institutions to digitize content and make it available for inclusion, to promote usage of the tools, and to create a community of scholarship around the data aggregated with these tools. 
+Staff
+Project Director Julie Wroblewski, Archivist & Special Collections Librarian at Benedictine University will be responsible for overall project management, primary project design and technical development. 
+Assistant Project Director Margaret Heller, Digital Collections Librarian at Loyola University and Assistant Director of the Read/Write Library, will assist with project management, data collection and identification, and community outreach and liaison activities
+Assistant Project Director Amy Killebrew, Digital Resources Librarian at Columbia College, will assist with portal and mobile application development and testing
+Project Intern Michael Diakoumis, Loyola University graduate student in Public History will research local business and cultural event data research social media tags and terms 
+Project Intern Jane Doe, a Loyola University Computer Science student with experience in linked data, will assist with testing of mobile application and website and metatdata standardization
+The project team will participate in biweekly check-ins in a virtual format, and monthly product and progress review meetings in either in person or virtual formats. In addition, they will attend any and all community outreach events and user testing and feedback sessions, as well as one Advisory Board meeting per year. 
+Advisory Board
+The Advisory Board will meet two to three times per year in either physical or a virtual, online setting. This group represents key community stakeholders as well as curators of data and collections to be used in this project. They will advise the project team project management, data curation, technical design, potential collaborations with other projects, and community perspectives. They will also evaluate the quality and effectiveness of the final products via informal and formal verbal and written feedback. The Advisory Board consists of: 
+Dr. Nick Hayward, Loyola University Center for Textual Studies and Digital Humanities
+Representative, Loyola University Information Technology Services
+Mary M. Case, Chicago Collections Consortium Board Chair and University Librarian at University of Illinois at Chicago
+Andrew Bullen, Technology Coordinator for the Illinois State Library
+Sandra Fritz, Illinois Digital Archives Coordinator for the Illinois State Library
+Peter Alter, Chicago History Museum Archivist and Curator
+Representative, Digital Public Library of America
+Representative, College and Research Libraries of Illinois (CARLI)
+Brian Bannon, Chicago Public Library CEO
+Brenna Berman, City of Chicago Chief Technology Officer
+Other Collaborators 
+While these institutions do not have official roles or representation on the project, we plan to communicate and collaborate with them to identify best practices for capturing and reviewing any of the sources of community and historical data included, as well as to disseminate results to the widest possible swath of the public. 
+Regional historical and cultural centers such as DuPage County Historical Society, Lake County Historical Society, Chinese American Museum, Casa Central (Humboldt Park-headquartered Latina/o cultural center), DuSable Museum, Black Metropolis Research Consortium, Chicago State University, University of Chicago, Polish Museum of America, NARA Great Lakes, and member institutions of the Chicago Collections Consortium
+Chicago-based arts and digital media presences such as Silk Road Rising Theater Company, Council on American Islamic Relations, and Chicagoist.com
+Final Product and Dissemination
+The final products for this project will consist of:
+A web portal prototype that allows users to see a multidimensional map of any combination of layers of date or date range. The base layer would include a map view that allows users to see geographic location as large as a county to as small as an individual address or geographical coordinate. Other layers would include images (both historical and from social media), audio, video, digitized, Tweets, civic data (census, crime statistics, and any other data available through governmental data sets), and business and institutional data. These views and layers will be filterable by date, keyword or theme, and location. 
+A mobile application prototype that allows users to see the same multidimensional map with the added features of a) honing in on their current location if their mobile device has location services enabled and b) allowing them to capture and upload their own image, audio or video to one of the data feeds (e.g., YouTube, Instagram) integrated into the map and automatically applying relevant tags or metadata. 
+A set of data visualizations using preset locations, time periods, and themes. 
+A documentation set for the portal and mobile application.
+An open design and code set published to GitHub. 
+Dissemination of information about these products will take place through
+Social media campaign and project website
+Press releases to regional news outlets such as the Chicago Tribune, Chicago Reader, and Chicago Sun Times and scholarly articles to selected peer-reviewed digital humanities and archival publications including American Archivist, Journal of Digital Humanities, and Digital Humanities Quarterly.
+Proposals for conference sessions will be submitted to Global Digital Humanities, Society of American Archivists Annual Meeting, and the Midwestern Archives Conference. 
+A series of community events in the Chicago area, including partnering with regional organizations (listed in the Staff section as Other Collaborators) to create interactive exhibits and informational sessions about the project. The events will be planned for the project midpoint, again when the prototypes are ready for public try-out, and again throughout the year period following the public launch. 
+Project design, code, and documentation will be published to GitHub and made freely available for reuse and adaptation with attribution under a Creative Commons License 
+Biographies
+Project Director Julie Wroblewski, Archivist & Special Collections Librarian at Benedictine University,  received her MLIS from Dominican University and her undergraduate degree from Lawrence University.  Her M.A. in Digital Humanities at Loyola University is currently in progress. She has extensive project management and experience in both in archives and in the private sector in healthcare technology, as well as grants administration experience at the state and federal levels. 
+Assistant Project Director Margaret Heller is the Digital Collections Librarian at Loyola University and Assistant Director of the Read/Write Library. She has extensive experience developing and customizing a variety of digital services and tools as well as building support for a community-run and supported archives at the Read/Write Library. 
+Assistant Project Director Amy Killebrew, Digital Resources Librarian at Columbia College has extensive experience in web design, in developing and customizing a variety of digital services and tools, and with supporting users who create and access large audio and visual collections.
+Project Intern Michael Diakoumis, Loyola University is graduate student in Public History with archival experience. 
+Project Intern Jane Doe, a Loyola University Computer Science student has worked on a variety of linked open data projects. 
+Advisory Board
+The Advisory Board will meet two to three times per year in either physical or a virtual, online setting. This group represents key community stakeholders as well as curators of data and collections to be used in this project. They will advise the project team project management, data curation, technical design, potential collaborations with other projects, and community perspectives. They will also evaluate the quality and effectiveness of the final products via informal and formal verbal and written feedback. The Advisory Board consists of: 
+Dr. Nick Hayward, Loyola University Center for Textual Studies and Digital Humanities
+Mary M. Case, Chicago Collections Consortium Board Chair and University Librarian at University of Illinois at Chicago
+Andrew Bullen, Technology Coordinator for the Illinois State Library
+Sandra Fritz, Illinois Digital Archives Coordinator for the Illinois State Library
+Peter Alter, Chicago History Museum Archivist and Curator
+Representative, Digital Public Library of America
+Representative, College and Research Libraries of Illinois (CARLI)
+Brian Bannon, Chicago Public Library CEO
+Brenna Berman, City of Chicago Chief Technology Officer
+7. Data Management Plan
+This project primarily makes use of existing data sets and digital collections.  A minimal amount of data visualization sets will be created and maintained by the project itself. It will collect usage statistics but will not store user profile data and logins. 
+Types of Data
+This project will make use of the following major data sets, APIs, and collections to formulate the maps and to create the layered views:
+Illinois Digital Archives collections
+Consortium of Academic and Research Libraries in Illinois (CARLI) Digital Collections
+StoryCorps oral history audio collections
+Library of Congress digital collections
+Digital Public Library of America collections
+Social media APIs from YouTube, Twitter, Instagram, Flickr to gather content by location and by relevant keyword or tag and hashtag
+Federal GIS data
+Federal census data
+City of Chicago Data Portal data sets https://data.cityofchicago.org/
+Google Maps APIs
+Smaller archival repositories will be encouraged to make digitized collections available through the major sources of data such as the IDA, CARLI, or the DPLA. 
+Tools and Technologies
+The portal and mobile application will be regularly documented and made available through GitHub and the project website. The project website, server space, and other maintenance and backup will be supported by the Loyola University and the project team. 
+Metadata
+Existing metatdata from sources will be used whenever possible. Any project specific metadata created or added by the project team will be documented and maintained for as long as the products are available. 
+Security and Privacy
+The portal and mobile application will collect usage statistics but will not store user profile data and logins. For all computers within the firewall of Loyola University, the Information Technology department takes responsibility for maintaining security and monitoring of campus internet and server usage. 
+Resulting Research Data
+Users who conduct and publish research using these products will be encourage to make their data and findings freely available under a Creative Commons license in an online repository. If they do not have immediate access to such a repository, the project team will assist them in making use of one maintained by the project’s participating institutions, such as Constellation, a DSpace-based institutional repository used by Columbia College and Benedictine University. 
+8. Letters of Commitment and Support
+Letters of Commitment would be sought from:
+Chicago Collections Consortium
+Chicago History Museum
+Chicago Public Library
+Chinese American Museum of Chicago
+City of Chicago 
+Columbia College
+Consortium of Academic and Research Libraries in Illinois (CARLI)
+Council on American Islamic Relations
+DuPage County Historical Society
+Illinois Digital Archives/Illinois State Library
+Lake County Historical Society
+Polish Museum of America
+Read/Write Library
+Letters of Support would be sought from:
+Digital Public Library of America
+Loyola University Center for Textual Studies and Digital Humanities
+
+9. Appendices
+Appendix A: Supplemental Environmental Scan Information
+This proposal builds from a number of mapping and digital image projects. It also integrates with with some key existing digital collections and community data sources.
+Ethnic Layers of Detroit: Experiencing Place Through Digital Storytelling, http://www.fltc.wayne.edu/eld/projectnews.html. This geohumanities project about the ethnic history of Detroit seeks to create an augmented reality map using specially collected case studies and oral histories with focus on “movement” in Detroit’s ethnic communities.
+Stanford Spatial History Project, http://web.stanford.edu/group/spatialhistory/cgi-bin/site/index.php has produced a variety of online services that display historical data in a geographic context. 
+American Migrations, http://americanmigrations.uic.edu/, uses GIS data and historical data to present web-based visualizations and narratives of African American and Latino migrations that have shaped American history for use in education and research.
+Digital Public Library of America (DPLA), http://dp.la/, aggregates digital content from a wide and growing population of libraries, archives, and museums, and makes it freely available through its portal and and API. 
+Historypin, https://www.historypin.org/, allow cultural institutions and individual users to upload historical images, associate them with geographic coordinates, and create and view customized maps and tours by theme or location. 
+Streetmuseum, http://www.museumoflondon.org.uk/Resources/app/you-are-here-app/home.html, a mobile application from the Museum of London allows users to see historical images from the museum’s collection layered over a map view based on their current geographical coordinates.
+Google Maps gives users the ability to see layers of community and topographical data in map format.
